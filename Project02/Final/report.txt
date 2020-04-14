@@ -1,0 +1,25 @@
+time0.0  force0.0
+time10.0  force20.0
+time20.0  force40.0
+time30.0  force60.0
+time40.0  force80.0
+For M1 :
+at time: 0.0position is: -0.0
+at time: 10.0position is: -28.828947113532767
+at time: 20.0position is: -110.89473575667333
+at time: 30.0position is: -239.56578688323503
+at time: 40.0position is: -408.2105214470311
+For M2 :
+at time: 0.0position is: 0.0
+at time: 10.0position is: 83.68421045311709
+at time: 20.0position is: 315.0877187126561
+at time: 30.0position is: 664.7368401288986
+at time: 40.0position is: 1103.157890052126
+For M3 :
+at time: 0.0position is: -0.0
+at time: 10.0position is: -28.828947113532767
+at time: 20.0position is: -110.89473575667333
+at time: 30.0position is: -239.56578688323503
+at time: 40.0position is: -408.2105214470311
+
+Depending on the input parameters that I gave, positions move accordingly and position sign indicates the direction of movement of masses.
